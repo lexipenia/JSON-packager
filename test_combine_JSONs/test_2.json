@@ -1,0 +1,43 @@
+{
+  "errors": {
+    "invalid-address-title": "Invalid address on your profile",
+    "invalid-address": "Please <0>contact support</0> to update your address with us.",
+    "location-banned-title": "Access blocked",
+    "location-banned": "Unfortunately, Nash is unable to operate in your jurisdiction at the moment.",
+    "invalid-clock-title": "Your computer’s clock is not accurate.",
+    "permissions-issue-title": "Permissions Issue",
+    "invalid-clock": "To trade on Nash your clock must be accurate. <0>Sync your clock</0> then <1>try again</1>.",
+    "network-issue-title": "Network issue",
+    "network-issue": "There is a temporary network issue. Please <0>try again</0>.",
+    "generic-error-title": "Error",
+    "generic-error": "Something went wrong. Please try again.",
+    "generic-error-signout": "An unexpected error occurred. Please sign out and try again.",
+    "within-waiting-period": "You must wait five minutes before creating another stake. Your new stake will appear shortly.",
+    "password": {
+      "incorrect": "The password you entered was incorrect."
+    },
+    "2fa": {
+      "incorrect": "The two-factor authentication code you entered is incorrect. You have a maximum of five attempts.",
+      "already-used": "The two-factor authentication code you entered has already been used. Please wait and try again.",
+      "code-expired": "The two-factor authentication code you entered has expired. Please wait and try again.",
+      "too-many-failures": "You have entered an incorrect code too many times and your account is now permanently locked. Please contact support.",
+      "too-many-failures-signout": "You have entered an incorrect code too many times and your account is now permanently locked. You will now be signed out."
+    },
+    "cryptography": {
+      "encryption-failed": "Encryption failed. Please sign out and try again.",
+      "decryption-failed": "Decryption failed. Please sign out and try again."
+    },
+    "account-not-found": {
+      "pending": {
+        "title": "Your account is currently being processed!",
+        "message": "Please check back in a few minutes."
+      },
+      "not-found": {
+        "title": "Your account could not be found."
+      }
+    }
+  },
+  "no-results": "No results found.",
+  "yes": "yes",
+  "no": "no"
+}

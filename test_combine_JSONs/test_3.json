@@ -1,0 +1,24 @@
+{
+  "delete-all-tokens": {
+    "body": "Are you sure you want to revoke all your keys?",
+    "confirm-button-label": "Revoke all keys forever",
+    "cancel-button-label": "Go back"
+  },
+  "delete-token": {
+    "body": "Are you sure you want to revoke ‘<0></0>’?",
+    "confirm-button-label": "Revoke forever",
+    "cancel-button-label": "Go back"
+  },
+  "edit-whitelisted": {
+    "title": "Address whitelist for {{name}}",
+    "add": "Add another",
+    "save-and-close": "Save changes and close",
+    "continue": "Continue"
+  },
+  "buy": "buy",
+  "sell": "sell",
+  "cancel": "Cancel",
+  "continue": "Continue",
+  "ok": "OK",
+  "back": "Back"
+}

@@ -1,0 +1,20 @@
+{
+  "remind-me-later": "Remind me later",
+  "no-limit": "No limit",
+  "learn-more": "Learn more",
+  "apikeys": {
+    "no-addresses-whitelisted": "You haven’t whitelisted any addresses yet.",
+    "address-input-placeholder": "Enter a BTC, NEO or ETH address to whitelist",
+    "add-whitelisted": "Whitelisted addresses",
+    "duplicate-address-in-form": "This address is already whitelisted.",
+    "add-address": "Add address",
+    "address-is-not-valid": "Address is not valid.",
+    "whitelisting-explanation": "You can only withdraw funds to these whitelisted addresses with this API key. You can add and remove whitelisted addresses at any time once your key has been generated.",
+    "token-type": {
+      "access": "Access",
+      "kyc": "Identity verification",
+      "apitrade": "API trading",
+      "twofa": "2FA"
+    }
+  }
+}
